@@ -1,0 +1,12 @@
+body {
+  padding: 0px 100px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.alignment {
+  text-align: end;
+}
